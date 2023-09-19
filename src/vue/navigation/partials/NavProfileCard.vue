@@ -2,9 +2,9 @@
     <!-- Profile Card -->
     <div class="nav-profile-card">
         <!-- Avatar -->
-        <!-- <ImageView :src="props.profileData['profilePictureUrl']"
+        <ImageView :src="props.profileData['profilePictureUrl']"
                    :alt="props.profileData['name']"
-                   class="img-pfp"/> -->
+                   class="img-pfp"/>
 
         <!-- Name -->
         <h4 class="nav-profile-card-title lead-2">{{ props.profileData['name'] }}</h4>
