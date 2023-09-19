@@ -1,0 +1,11 @@
+{
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en.png",
+            "default": true
+        }
+    ],
+    "preloaderEnabled": false
+}

@@ -1,0 +1,29 @@
+{
+    "filam": {
+        "logoUrl": "images/places/logo-filam.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {
+                "name": "FilAm Software"
+            }
+        }
+    },
+    "hau": {
+        "logoUrl": "images/places/logo-hau.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {
+                "name": "Holy Angel University"
+            }
+        }
+    },
+    "quickstrike": {
+        "logoUrl": "images/places/logo-quickstrike.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {
+                "name": "QuickStrike Mnfg Phils Inc."
+            }
+        }
+    }
+}

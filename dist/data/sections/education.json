@@ -1,0 +1,24 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory."
+        }
+    },
+    "items": [
+        {
+            "id": "bachelor_hau",
+            "place": "@link{places.hau}",
+            "period": [
+                "2011/06",
+                "2015/03"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Bachelor of Science in Information Technology major in Web Development",
+                    "description": "Graduated with a deep understanding of computer programming, systems analysis, web design, web development and software architecture."
+                }
+            }
+        }
+    ]
+}

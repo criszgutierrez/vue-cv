@@ -1,0 +1,38 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        }
+    },
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.filam}",
+            "period": [
+                "2015/05",
+                "2018/04"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "description": "Designed and implemented scalable RESTful APIs using C# .NET."
+                }
+            }
+        },
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.quickstrike}",
+            "period": [
+                "2018/04",
+                "now"
+            ],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "description": "Designed and implemented scalable RESTful APIs using C# .NET and PHP Laravel, worked with creating and managing Postgres databases."
+                }
+            }
+        }
+    ]
+}
