@@ -24,17 +24,17 @@
         },
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@criszgutierrez",
+            "valueShort": "@criszgutierrez",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/criszgutierrez/"
         },
         "linkedin": {
             "id": "linkedin",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@criszgutierrez",
+            "valueShort": "@criszgutierrez",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/criszgutierrez/"
         },
         "phone": {
             "id": "phone",
