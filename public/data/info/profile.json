@@ -1,54 +1,27 @@
 {
-    "name": "Jonas Einstein",
+    "name": "Christian Jan Gutierrez",
     "profilePictureUrl": "images/pictures/avatar.png",
-
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
-        },
-
-        "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
-        },
-
-        "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-
-        "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "credits": "Template Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Software Engineer"
         }
     },
-
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "Mabalacat City, Pampanga, Philippines 2010",
+            "valueShort": "Mabalacat City, Pampanga 2010",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
-
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "criszgutierrez@outlook.com",
+            "valueShort": "criszgutierrez@outlook.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "mailto:criszgutierrez@outlook.com"
         },
-
-        "facebook": {
-            "id": "facebook",
-            "value": "Jonas Einstein",
-            "valueShort": "J. Einstein",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
-        },
-
         "github": {
             "id": "github",
             "value": "@jonas.einstein.official",
@@ -56,15 +29,6 @@
             "faIcon": "fa-brands fa-github",
             "href": "https://github.com"
         },
-
-        "instagram": {
-            "id": "instagram",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
-        },
-
         "linkedin": {
             "id": "linkedin",
             "value": "@jonas.einstein.official",
@@ -72,13 +36,12 @@
             "faIcon": "fa-brands fa-linkedin",
             "href": "https://linkedin.com"
         },
-
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+63 (945) 537-2208",
+            "valueShort": "(945) 537-2208",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:1234567890"
+            "href": "tel:9455372208"
         }
     }
 }

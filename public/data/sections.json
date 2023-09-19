@@ -4,23 +4,19 @@
             "id": "home",
             "faIcon": "fa-solid fa-home"
         },
-
         {
             "id": "background",
             "faIcon": "fa-solid fa-clock"
         },
-
         {
             "id": "showcase",
             "faIcon": "fa-solid fa-images"
         },
-
         {
             "id": "more",
             "faIcon": "fa-solid fa-plus"
         }
     ],
-
     "sections": [
         {
             "id": "about",
@@ -30,7 +26,6 @@
             "faIcon": "fa-solid fa-address-card",
             "cover": true
         },
-
         {
             "id": "education",
             "categoryId": "background",
@@ -38,7 +33,6 @@
             "jsonPath": "data/sections/education.json",
             "faIcon": "fa-solid fa-graduation-cap"
         },
-
         {
             "id": "skills",
             "categoryId": "showcase",
@@ -46,7 +40,6 @@
             "jsonPath": "data/sections/skills.json",
             "faIcon": "fa-solid fa-tools"
         },
-
         {
             "id": "experience",
             "categoryId": "background",
@@ -54,37 +47,12 @@
             "jsonPath": "data/sections/experience.json",
             "faIcon": "fa-solid fa-briefcase"
         },
-
-        {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "component": "GallerySection",
-            "jsonPath": "data/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open"
-        },
-
-        {
-            "id": "achievements",
-            "categoryId": "showcase",
-            "component": "ThreadsSection",
-            "jsonPath": "data/sections/achievements.json",
-            "faIcon": "fa-solid fa-award"
-        },
-
         {
             "id": "hobbies",
             "categoryId": "more",
             "component": "InfoSection",
             "jsonPath": "data/sections/hobbies.json",
             "faIcon": "fa-solid fa-heart"
-        },
-
-        {
-            "id": "contact",
-            "categoryId": "more",
-            "component": "ContactSection",
-            "jsonPath": "data/sections/contact.json",
-            "faIcon": "fa-solid fa-pen-to-square"
         }
     ]
 }
