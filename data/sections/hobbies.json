@@ -1,0 +1,126 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Hobbies</span> & Interests",
+            "description": "This is pretty much how I spend my free time:"
+        }
+    },
+    "subcategories": [
+        {
+            "id": "activities",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa-solid fa-clock",
+            "locales": {
+                "en": {
+                    "title": null
+                }
+            }
+        },
+        {
+            "id": "interests",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa fa-book-open-reader",
+            "locales": {
+                "en": {
+                    "title": "Interests"
+                }
+            }
+        }
+    ],
+    "items": {
+        "activities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-volleyball",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Volleyball",
+                        "description": "Volleyball? It's not just a game; it's my love affair with the court!"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-seedling",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Gardening",
+                        "description": "Painting with Mother Nature as my canvas, only instead of a brush, I've got my trusty gardening tools. "
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-utensils",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Cooking",
+                        "description": "It's a bit like crafting a symphony for my taste buds, with recipes as my sheet music. I'll chop, sizzle, and stir my way to creating masterpieces that are not just delicious but downright legendary."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-wrench",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Tinkering",
+                        "description": "I'm on a whimsical journey, turning wild ideas into vibrant realities!"
+                    }
+                }
+            }
+        ],
+        "interests": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-microchip",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Technology",
+                        "description": "Staying updated on the latest gadgets, software, and tech trends."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-plane",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Traveling",
+                        "description": "Exploring new places, cultures, and cuisines around the world."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-music",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Music",
+                        "description": "Embracing the harmony of diverse musical genres."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-film",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Film and Cinema",
+                        "description": "Watching movies and analyzing filmography."
+                    }
+                }
+            }
+        ]
+    }
+}

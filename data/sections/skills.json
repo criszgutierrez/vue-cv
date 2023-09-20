@@ -1,0 +1,309 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        }
+    },
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {
+                    "title": null
+                }
+            }
+        },
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {
+                    "title": "Programming"
+                }
+            }
+        },
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {
+                "0": "beginner",
+                "20": "rookie",
+                "40": "intermediate",
+                "60": "advanced",
+                "80": "fluent",
+                "100": "native"
+            },
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {
+                    "title": "Languages"
+                },
+                "es": {
+                    "title": "Idiomas"
+                },
+                "fr": {
+                    "title": "Langues"
+                },
+                "zh": {
+                    "title": "语言"
+                }
+            }
+        },
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {
+                    "title": "Bonus Skills"
+                },
+                "es": {
+                    "title": "Habilidades Adicionales"
+                },
+                "fr": {
+                    "title": "Plus Habiletés"
+                },
+                "zh": {
+                    "title": "附加技能"
+                }
+            }
+        }
+    ],
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Programming Languages",
+                        "description": "Proficiency in one or more programming languages such as C#, JavaScript and PHP."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-user-cog",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Software Development Methodologies",
+                        "description": "Knowledge of various software development methodologies like Agile, Scrum and Waterfall."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-laptop-code",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Object-Oriented Programming (OOP)",
+                        "description": "Mastery in OOP principles and design patterns for writing clean, maintainable code."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Database Management",
+                        "description": "Familiarity with database systems (e.g., SQL, NoSQL) and the ability to design and optimize database schemas."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-code-branch",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Version Control",
+                        "description": "Proficiency with version control systems like Git for code collaboration and version management"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-brands fa-docker",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Containerization",
+                        "description": "Familiarity with containerization technologies like Docker"
+                    }
+                }
+            }
+        ],
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 85,
+                "locales": {
+                    "en": {
+                        "title": "HTML 5",
+                        "description": "Experience Time: 8 years"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 60,
+                "locales": {
+                    "en": {
+                        "title": "CSS 3",
+                        "description": "Experience Time: 4 years"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 80,
+                "locales": {
+                    "en": {
+                        "title": "JavaScript",
+                        "description": "Experience Time: 8 years"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-microsoft",
+                "value": 75,
+                "locales": {
+                    "en": {
+                        "title": "C#",
+                        "description": "Experience Time: 6 years"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-php",
+                "value": 60,
+                "locales": {
+                    "en": {
+                        "title": "PHP",
+                        "description": "Experience Time: 4 years"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 70,
+                "locales": {
+                    "en": {
+                        "title": "SQL",
+                        "description": "Experience Time: 8 years"
+                    }
+                }
+            }
+        ],
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/ph.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {
+                        "title": "Filipino",
+                        "description": "Native speaker with excellent communication and writing skills."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 70,
+                "locales": {
+                    "en": {
+                        "title": "English",
+                        "description": "Advanced proficiency in English language; can hold conversations and understand written text."
+                    }
+                }
+            }
+        ],
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Front-End Development",
+                        "description": "Able to code in HTML, VueJS and TypeScript."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Backend Development",
+                        "description": "Experience in server-side development with technologies like C# .NET and PHP Laravel"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "APIs and RESTful Services",
+                        "description": "Knowledge of creating and consuming APIs and understanding RESTful principles."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Documentation",
+                        "description": "Able to create clear and concise technical documentation for code, APIs, and software architecture."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Operating Systems",
+                        "description": "Familiarity with different operating systems (e.g., Linux, Windows) and their command-line interfaces."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Soft Skills",
+                        "description": "Time management, teamwork, adaptability, and a willingness to learn and stay updated with the latest industry trends."
+                    }
+                }
+            }
+        ]
+    }
+}

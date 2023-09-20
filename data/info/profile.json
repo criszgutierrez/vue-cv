@@ -1,0 +1,47 @@
+{
+    "name": "Christian Jan Gutierrez",
+    "profilePictureUrl": "images/pictures/avatar.png",
+    "locales": {
+        "en": {
+            "credits": "Template Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Software Engineer"
+        }
+    },
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Mabalacat City, Pampanga, Philippines 2010",
+            "valueShort": "Mabalacat City, Pampanga 2010",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+        "email": {
+            "id": "email",
+            "value": "criszgutierrez@outlook.com",
+            "valueShort": "criszgutierrez@outlook.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:criszgutierrez@outlook.com"
+        },
+        "github": {
+            "id": "github",
+            "value": "@criszgutierrez",
+            "valueShort": "@criszgutierrez",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/criszgutierrez/"
+        },
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@criszgutierrez",
+            "valueShort": "@criszgutierrez",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/criszgutierrez/"
+        },
+        "phone": {
+            "id": "phone",
+            "value": "+63 (945) 537-2208",
+            "valueShort": "(945) 537-2208",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:9455372208"
+        }
+    }
+}

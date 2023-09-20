@@ -1,0 +1,20 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>CV!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "I am a software engineer with years of experience developing web applications in C#, JavaScript, and PHP, encompassing multiple architectures, methodologies and tools, I am dedicated to continuous learning and growth. My aim is to contribute my expertise to an innovative organization, collaborating with a dynamic team to achieve outstanding results and navigate diverse challenges effectively."
+        }
+    },
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}
