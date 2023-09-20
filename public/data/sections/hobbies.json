@@ -44,28 +44,6 @@
             },
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-dice",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Tabletop Games",
-                        "description": "Embarking on a wild rollercoaster ride with Lady Luck as we toss the dice, conquer villains, rescue the world, and venture into even more epic escapades! "
-                    }
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-gamepad",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Gaming",
-                        "description": "I'm all about the gaming life! I dive into RPGs, create wild worlds in sandbox games, survive post-apocalyptic chaos, and compete fiercely in MOBAs and FPS games."
-                    }
-                }
-            },
-            {
-                "imageIconUrl": null,
                 "faIcon": "fas fa-seedling",
                 "value": null,
                 "locales": {
